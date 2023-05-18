@@ -1,0 +1,330 @@
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.815s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 2900
+  Tx Bytes:   1650804
+  TxOffered:  311.082 Mbps
+  Rx Packets: 2900
+  Rx Bytes:   1650804
+  First Rx:   0.00700962
+  Last Rx:   0.0404901
+  Throughput: 376.179 Mbps
+  Average Jitter:  1.72476e-05 s
+  Average Delay:  0.00110382 s
+  Lost packets:  0 
+  Last packet sent at:  0.0404865 s
+  Last packet received at:  0.0404901 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 1451
+  Tx Bytes:   75456
+  TxOffered:  17.4764 Mbps
+  Rx Packets: 1451
+  Rx Bytes:   75456
+  First Rx:   0.00901923
+  Last Rx:   0.0404865
+  Throughput: 18.2947 Mbps
+  Average Jitter:  3.25866e-05 s
+  Average Delay:  0.00132864 s
+  Lost packets:  0 
+  Last packet sent at:  0.0399502 s
+  Last packet received at:  0.0404865 s
+Total Bytes Received: 1500000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.813s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 5830
+  Tx Bytes:   3303164
+  TxOffered:  346.13 Mbps
+  Rx Packets: 5830
+  Rx Bytes:   3303164
+  First Rx:   0.00700962
+  Last Rx:   0.0728118
+  Throughput: 382.983 Mbps
+  Average Jitter:  1.58627e-05 s
+  Average Delay:  0.00111673 s
+  Lost packets:  0 
+  Last packet sent at:  0.0728082 s
+  Last packet received at:  0.0728118 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 2916
+  Tx Bytes:   151636
+  TxOffered:  17.786 Mbps
+  Rx Packets: 2916
+  Rx Bytes:   151636
+  First Rx:   0.00901923
+  Last Rx:   0.0728082
+  Throughput: 18.1362 Mbps
+  Average Jitter:  3.28996e-05 s
+  Average Delay:  0.00147028 s
+  Lost packets:  0 
+  Last packet sent at:  0.0720545 s
+  Last packet received at:  0.0728082 s
+Total Bytes Received: 3000000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.810s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 8760
+  Tx Bytes:   4955524
+  TxOffered:  353.664 Mbps
+  Rx Packets: 8760
+  Rx Bytes:   4955524
+  First Rx:   0.00700962
+  Last Rx:   0.106906
+  Throughput: 378.468 Mbps
+  Average Jitter:  1.55685e-05 s
+  Average Delay:  0.00117605 s
+  Lost packets:  0 
+  Last packet sent at:  0.106903 s
+  Last packet received at:  0.106906 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 4381
+  Tx Bytes:   227816
+  TxOffered:  17.4743 Mbps
+  Rx Packets: 4381
+  Rx Bytes:   227816
+  First Rx:   0.00901923
+  Last Rx:   0.106903
+  Throughput: 17.7568 Mbps
+  Average Jitter:  3.28902e-05 s
+  Average Delay:  0.00154012 s
+  Lost packets:  0 
+  Last packet sent at:  0.106476 s
+  Last packet received at:  0.106903 s
+Total Bytes Received: 4500000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.818s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 11689
+  Tx Bytes:   6607832
+  TxOffered:  362.308 Mbps
+  Rx Packets: 11689
+  Rx Bytes:   6607832
+  First Rx:   0.00700962
+  Last Rx:   0.13915
+  Throughput: 381.518 Mbps
+  Average Jitter:  1.53952e-05 s
+  Average Delay:  0.00116324 s
+  Lost packets:  0 
+  Last packet sent at:  0.139146 s
+  Last packet received at:  0.13915 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 5846
+  Tx Bytes:   303996
+  TxOffered:  17.5868 Mbps
+  Rx Packets: 5846
+  Rx Bytes:   303996
+  First Rx:   0.00901923
+  Last Rx:   0.139146
+  Throughput: 17.8234 Mbps
+  Average Jitter:  3.29717e-05 s
+  Average Delay:  0.00158715 s
+  Lost packets:  0 
+  Last packet sent at:  0.138887 s
+  Last packet received at:  0.139146 s
+Total Bytes Received: 6000000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.800s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 14619
+  Tx Bytes:   8260192
+  TxOffered:  367.94 Mbps
+  Rx Packets: 14619
+  Rx Bytes:   8260192
+  First Rx:   0.00700962
+  Last Rx:   0.171282
+  Throughput: 383.632 Mbps
+  Average Jitter:  1.52098e-05 s
+  Average Delay:  0.00118378 s
+  Lost packets:  0 
+  Last packet sent at:  0.171279 s
+  Last packet received at:  0.171282 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 7311
+  Tx Bytes:   380176
+  TxOffered:  17.6897 Mbps
+  Rx Packets: 7311
+  Rx Bytes:   380176
+  First Rx:   0.00901923
+  Last Rx:   0.171279
+  Throughput: 17.8758 Mbps
+  Average Jitter:  3.28248e-05 s
+  Average Delay:  0.0015792 s
+  Lost packets:  0 
+  Last packet sent at:  0.170976 s
+  Last packet received at:  0.171279 s
+Total Bytes Received: 7500000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.808s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 17549
+  Tx Bytes:   9912552
+  TxOffered:  370.681 Mbps
+  Rx Packets: 17549
+  Rx Bytes:   9912552
+  First Rx:   0.00700962
+  Last Rx:   0.204025
+  Throughput: 383.863 Mbps
+  Average Jitter:  1.51417e-05 s
+  Average Delay:  0.00118998 s
+  Lost packets:  0 
+  Last packet sent at:  0.204021 s
+  Last packet received at:  0.204025 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 8776
+  Tx Bytes:   456356
+  TxOffered:  17.7257 Mbps
+  Rx Packets: 8776
+  Rx Bytes:   456356
+  First Rx:   0.00901923
+  Last Rx:   0.204021
+  Throughput: 17.8548 Mbps
+  Average Jitter:  3.28529e-05 s
+  Average Delay:  0.00159329 s
+  Lost packets:  0 
+  Last packet sent at:  0.203432 s
+  Last packet received at:  0.204021 s
+Total Bytes Received: 9000000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.832s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 20478
+  Tx Bytes:   11564860
+  TxOffered:  369.684 Mbps
+  Rx Packets: 20478
+  Rx Bytes:   11564860
+  First Rx:   0.00700962
+  Last Rx:   0.238674
+  Throughput: 380.864 Mbps
+  Average Jitter:  1.50627e-05 s
+  Average Delay:  0.00116533 s
+  Lost packets:  0 
+  Last packet sent at:  0.238671 s
+  Last packet received at:  0.238674 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 10240
+  Tx Bytes:   532484
+  TxOffered:  17.6163 Mbps
+  Rx Packets: 10240
+  Rx Bytes:   532484
+  First Rx:   0.00901923
+  Last Rx:   0.238671
+  Throughput: 17.69 Mbps
+  Average Jitter:  3.31889e-05 s
+  Average Delay:  0.0016489 s
+  Lost packets:  0 
+  Last packet sent at:  0.237621 s
+  Last packet received at:  0.238671 s
+Total Bytes Received: 10500000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.814s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 23408
+  Tx Bytes:   13217220
+  TxOffered:  371.457 Mbps
+  Rx Packets: 23408
+  Rx Bytes:   13217220
+  First Rx:   0.00700962
+  Last Rx:   0.271474
+  Throughput: 381.297 Mbps
+  Average Jitter:  1.50965e-05 s
+  Average Delay:  0.00115624 s
+  Lost packets:  0 
+  Last packet sent at:  0.27147 s
+  Last packet received at:  0.271474 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 11705
+  Tx Bytes:   608664
+  TxOffered:  17.5727 Mbps
+  Rx Packets: 11705
+  Rx Bytes:   608664
+  First Rx:   0.00901923
+  Last Rx:   0.27147
+  Throughput: 17.6937 Mbps
+  Average Jitter:  3.29936e-05 s
+  Average Delay:  0.00165718 s
+  Lost packets:  0 
+  Last packet sent at:  0.271269 s
+  Last packet received at:  0.27147 s
+Total Bytes Received: 12000000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.811s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 26338
+  Tx Bytes:   14869580
+  TxOffered:  374.046 Mbps
+  Rx Packets: 26338
+  Rx Bytes:   14869580
+  First Rx:   0.00700962
+  Last Rx:   0.303297
+  Throughput: 382.891 Mbps
+  Average Jitter:  1.50447e-05 s
+  Average Delay:  0.00116379 s
+  Lost packets:  0 
+  Last packet sent at:  0.303294 s
+  Last packet received at:  0.303297 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 13170
+  Tx Bytes:   684844
+  TxOffered:  17.6576 Mbps
+  Rx Packets: 13170
+  Rx Bytes:   684844
+  First Rx:   0.00901923
+  Last Rx:   0.303294
+  Throughput: 17.7553 Mbps
+  Average Jitter:  3.2888e-05 s
+  Average Delay:  0.0016548 s
+  Lost packets:  0 
+  Last packet sent at:  0.302914 s
+  Last packet received at:  0.303294 s
+Total Bytes Received: 13500000
+Waf: Entering directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Waf: Leaving directory `/home/edin/Downloads/workspace/bake/source/ns-3.33/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.813s)
+Flow ID1 (10.1.1.1 -> 10.1.1.2)
+  Tx Packets: 29267
+  Tx Bytes:   16521888
+  TxOffered:  376.44 Mbps
+  Rx Packets: 29267
+  Rx Bytes:   16521888
+  First Rx:   0.00700962
+  Last Rx:   0.334857
+  Throughput: 384.484 Mbps
+  Average Jitter:  1.50991e-05 s
+  Average Delay:  0.00116517 s
+  Lost packets:  0 
+  Last packet sent at:  0.334853 s
+  Last packet received at:  0.334857 s
+Flow ID2 (10.1.1.2 -> 10.1.1.1)
+  Tx Packets: 14635
+  Tx Bytes:   761024
+  TxOffered:  17.7277 Mbps
+  Rx Packets: 14635
+  Rx Bytes:   761024
+  First Rx:   0.00901923
+  Last Rx:   0.334853
+  Throughput: 17.8194 Mbps
+  Average Jitter:  3.27124e-05 s
+  Average Delay:  0.00163905 s
+  Lost packets:  0 
+  Last packet sent at:  0.334528 s
+  Last packet received at:  0.334853 s
+Total Bytes Received: 15000000
